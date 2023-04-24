@@ -52,7 +52,7 @@ knock up gfw active-probe by redirecting it to nginx
 ![Alt text](/instruction/config0.png?raw=true "config0")
 ![Alt text](/instruction/config1.png?raw=true "config1")
 ![Alt text](/instruction/config2.png?raw=true "config2")
-![Alt text](/instruction/traffic.png?raw=true "traffic")
+![Alt text](/instruction/traffic3.png?raw=true "traffic")
 
 # typical config:
 
