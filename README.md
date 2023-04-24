@@ -1,3 +1,9 @@
+# DONT USE THIS
+# THIS METHOD BLOCKED IN IRAN SINCE APRIL 2023
+# GFW BLOCK ALL HTTP REQUEST TO OUTSIDE OF IRAN SINCE APRIL 2023
+
+
+
 # gfw_resist_http_proxy
 knock up gfw active-probe by redirecting it to nginx
 
